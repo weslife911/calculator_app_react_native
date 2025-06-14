@@ -12,15 +12,16 @@ A simple and responsive calculator application built to perform basic arithmetic
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript  
-*(You can modify this section if you're using React, Flutter, etc.)*
+- REACT JS
+- REACT NATIVE
+- JavaScript
+- Expo
 
 ## Getting Started
 
 To run the app locally:
+- npx expo start
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/weslife911/calculator_app.git
+   git clone https://github.com/weslife911/calculator_app_react_native.git
